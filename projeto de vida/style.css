@@ -1,0 +1,358 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #ac4caf;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+nav {
+    margin: 20px 0;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ac4caf;
+    font-weight: bold;
+}
+.container {
+    margin: 20px;
+   
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 100%);
+}
+
+header {
+    background-color: #ac4caf;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #ac4caf;
+    font-weight: bold;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: #ac4caf;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #ac4caf;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #6590ec;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #ac4caf;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #333333;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #ac4caf;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+}
+h1, h2 {
+    color: rgb(58, 26, 94);
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #ac4caf;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 5px 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+header {
+    background: rgba(0, 115, 230, 0.8);
+    padding: 20px 0;
+    font-size: 28px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+nav {
+    margin: 20px 0;
+}
+nav a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+    margin: 0 15px;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+nav a:hover {
+    color: #fff;
+}
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    background: rgba(255, 249, 249, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+h2 {
+    color: #00a2ff;
+    border-bottom: 2px solid #00a2ff;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+a {
+    color: #0077ff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+a:hover {
+    color: #fff;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg,rgba(49, 167, 196, 0.8));
+    color: #ffffff;
+    text-align: center;
+}
+header {
+    background: rgba(49, 167, 196, 0.8);
+    padding: 20px 0;
+    font-size: 28px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+nav {
+    margin: 20px 0;
+}
+nav a {
+    text-decoration: none;
+    color:rgba(38, 95, 153, 0.8);
+    font-weight: bold;
+    margin: 0 15px;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+nav a:hover {
+    color: #fff;
+}
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(15px);
+}
+h2 {
+    color: #0099ff;
+    border-bottom: 3px solid #0099ff;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+a:hover {
+    color: #fff;
+}
+.espaco{
+    margin-top: 150px;
+    color: #000;
+}
+
+.vision{
+    color: #000;
+
+}
+
+:root {
+    --azul-claro: #d0e8f2;
+    --azul-medio: #a9d6e5;
+    --azul-destaque: #0077b6;
+    --branco: #ffffff;
+    --cinza-claro: #f1f1f1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--azul-claro);
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: var(--azul-destaque);
+    color: var(--branco);
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 4px solid var(--azul-medio);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+header h2 {
+    font-weight: 400;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: var(--azul-medio);
+    padding: 1rem;
+}
+
+nav a {
+    color: var(--azul-destaque);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: var(--azul-claro);
+}
+
+main.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: var(--branco);
+    border-radius: 16px;
+    box-shadow: 0 0 15px rgba(0, 119, 182, 0.15);
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav a {
+        margin: 0.5rem 0;
+    }
+
+    main.container {
+        padding: 1rem;
+        margin: 1rem;
+    }
+}
